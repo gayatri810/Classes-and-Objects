@@ -60,10 +60,10 @@ int main()
     student s1,s2;
 
     cout<<"1st student: "<<endl;
-    s1.name = "Soham";
+    s1.name = "Gayatri";
     s1.age = 19;
     s1.branch = "ENTC";
-    s1.prn = 065;
+    s1.prn = 055;
     s1.result = 7.8;
     s1.year = 2;
     cout<<s1.name<<endl<<s1.age<<endl<<s1.branch<<endl<<s1.prn<<endl<<s1.result<<endl<<s1.year<<endl;
@@ -86,27 +86,16 @@ Define a class named student with the following public data members:
 Declare two objects s1 and s2 of the class student.
 4. Input and Output for First Student (s1):   
 Assign the following values to the object s1:   
-    - name = "Soham"   
+    - name = "Gayatri"   
     - age = 19   
     - branch = "ENTC"   
-    - prn = 065   
+    - prn = 055   
     - result = 7.8   
     - year = 2   
     - Display the values stored in s1:   
     - Print the name, age, branch, prn, result, and year.   
 
-5. Input and Output for Second Student (s2):   
-Assign the following values to the object s2:
-    - name = "Hussain"   
-    - age = 19   
-    - branch = "ENTC"   
-    - prn = 060   
-    - result = 8.83   
-    - year = 2   
-    - Display the values stored in s2:   
-    - Print the name, age, branch, prn, result, and year.
-
-7. End
+4. End
 
 ### Defining Method in class
 1. Start
